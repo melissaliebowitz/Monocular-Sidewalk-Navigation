@@ -76,23 +76,22 @@ These annotations were used to fine-tune a SegFormer semantic segmentation model
 
 ---
 
-## Project Structure
+## System Pipeline
 
+```text
 Camera Frame
-      │
-      ▼
+    ↓
 SegFormer
 (Sidewalk / Road Segmentation)
-      │
-      ▼
+    ↓
 Depth Anything V2
 (Depth Estimation)
-      │
-      ▼
+    ↓
 Obstacle Detection
-      │
-      ▼
+    ↓
 Navigation Instructions
+```
+
 
 ## Running the Navigation System
 
