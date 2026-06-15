@@ -30,8 +30,6 @@ The project uses a fine-tuned SegFormer semantic segmentation model trained to c
 * Sidewalk
 * Road
 
-You can download from this link : https://drive.google.com/drive/folders/1JXkXLbQ3Ayr-_kCykUgtyqiy5y6qtVgQ?usp=drive_link 
-
 Place the exported model folder in:
 
 ```text
