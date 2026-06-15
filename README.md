@@ -78,26 +78,21 @@ These annotations were used to fine-tune a SegFormer semantic segmentation model
 
 ## Project Structure
 
-```text
-project/
-│
-├── data/
-│   ├── videos/
-│   ├── images/
-│   └── labels/
-│
-├── checkpoints/
-│   └── depth_anything_v2_vits.pth
-│
-├── segformer_sidewalk_road_model/
-│
-├── train_segformer_sidewalk.py
-├── sidewalk_navigation.py
-│
-└── README.md
-```
-
----
+Camera Frame
+      │
+      ▼
+SegFormer
+(Sidewalk / Road Segmentation)
+      │
+      ▼
+Depth Anything V2
+(Depth Estimation)
+      │
+      ▼
+Obstacle Detection
+      │
+      ▼
+Navigation Instructions
 
 ## Running the Navigation System
 
