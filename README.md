@@ -140,14 +140,9 @@ No sidewalk detected - STOP
 
 * Audio feedback for users.
 * Real-time deployment on mobile devices.
-* Additional classes such as crosswalks, bicycles, pedestrians, and vehicles.
-* Improved obstacle detection using object detection models.
-* Support for nighttime and adverse weather conditions.
 
 ---
 
 ## Authors
 
-Melissa Liebowitz
-
-Ariel University – Computer Science Department
+Melissa Liebowitz, Mohamad Mousa
