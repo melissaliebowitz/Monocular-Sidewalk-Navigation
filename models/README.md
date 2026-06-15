@@ -50,11 +50,14 @@ This model is used to identify the sidewalk region in each frame before obstacle
 
 ---
 
-## Downloading Models
+## Download Links
 
-Model files are not included in this repository due to GitHub file size limitations.
+The model files are hosted externally due to GitHub size limitations.
 
-Download the required models and place them in the directories shown above before running the project.
+- Fine-Tuned SegFormer: [Google Drive] https://drive.google.com/drive/folders/1JXkXLbQ3Ayr-_kCykUgtyqiy5y6qtVgQ?usp=drive_link
+- Depth Anything V2 Small: [Official Download] https://github.com/DepthAnything/Depth-Anything-V2
+
+
 
 ### Recommended Directory Structure
 
