@@ -23,7 +23,7 @@ These annotations were used to fine-tune a SegFormer semantic segmentation model
 
 ```text
 data/
-├── videos/    # Original recorded videos
+├── sidewalk_video4.m4p    # example video
 ├── images/    # Extracted video frames
 └── labels/    # Segmentation masks generated using SAM2
 ```
